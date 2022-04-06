@@ -1,37 +1,31 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gkiniesta/gaurav_k-Analytics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Gaurav Kutemate
+I am passionate and enthusiatic Data professional. I admire companies and their decisions that could bring a positive change in the society. And I believe that’s where my interest for Analytics stems from. Studying data, interpreting it, and generating some good insights that creates business value really excites me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Skills :computer: :
 
-### Markdown
+Languages:
+1. Python
+2. R
+3. SQL
+4. HTML
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Platforms
+1. AWS
+2. Google cloud
+3. On premise Oracle data warehouse
 
-```markdown
-Syntax highlighted code block
+Tools/Technologies/Concepts:
+1. Machine learning algorithms
+2. Snowflake
+3. Tableau
+4. ETL data pipeline
+5. Agile Project management
+6. Data modelling
+7. JIRA
+8. Confluence 
+9. Freshdesk and Freshsales
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gkiniesta/gaurav_k-Analytics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
